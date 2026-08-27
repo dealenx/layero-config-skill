@@ -1,0 +1,9 @@
+# see: https://github.com/microsoft/apm
+
+name: layero-config-skill
+version: 1.0.0
+
+description: Составляет layero.json — конфиг деплоя на layero.ru
+license: MIT
+type: skill
+includes: auto
