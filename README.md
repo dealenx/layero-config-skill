@@ -1,6 +1,6 @@
 # layero-config-skill
 
-<!--[![skills.sh](https://img.shields.io/endpoint?url=https://www.skills.sh/api/badge/dealenx/layero-config-skill)](https://www.skills.sh/dealenx/layero-config-skill)-->
+[![skills.sh](https://img.shields.io/endpoint?url=https://www.skills.sh/api/badge/dealenx/layero-config-skill)](https://www.skills.sh/dealenx/layero-config-skill)
 
 
 ## Что делает скилл
